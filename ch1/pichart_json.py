@@ -1,6 +1,6 @@
 import json
-import japanize_matplotlib
 import matplotlib.pyplot as plt
+
 
 data = json.load(open('json/pi.json', encoding='utf-8'))
 
