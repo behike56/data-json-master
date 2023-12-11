@@ -1,0 +1,42 @@
+[
+  {
+    "com": 0,
+    "user": 1,
+    "result": "LOSE"
+  },
+  {
+    "com": 2,
+    "user": 2,
+    "result": "EVEN"
+  },
+  {
+    "com": 0,
+    "user": 1,
+    "result": "LOSE"
+  },
+  {
+    "com": 0,
+    "user": 2,
+    "result": "WIN"
+  },
+  {
+    "com": 0,
+    "user": 1,
+    "result": "LOSE"
+  },
+  {
+    "com": 0,
+    "user": 0,
+    "result": "EVEN"
+  },
+  {
+    "com": 2,
+    "user": 2,
+    "result": "EVEN"
+  },
+  {
+    "com": 0,
+    "user": 0,
+    "result": "EVEN"
+  }
+]
