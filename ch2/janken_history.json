@@ -38,5 +38,15 @@
     "com": 0,
     "user": 0,
     "result": "EVEN"
+  },
+  {
+    "com": 1,
+    "user": 1,
+    "result": "EVEN"
+  },
+  {
+    "com": 0,
+    "user": 2,
+    "result": "WIN"
   }
 ]

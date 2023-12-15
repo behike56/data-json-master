@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+matplotlib = "*"
+bs4 = "*"
 
 [dev-packages]
 

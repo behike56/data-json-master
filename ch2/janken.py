@@ -94,8 +94,8 @@ def ask_user_hand() -> int:
         if 0 <= no <= 3:
             return no
 
-    except:
-        pass
+    except TypeError:
+        return ask_user_hand()
 
     return ask_user_hand()
 
